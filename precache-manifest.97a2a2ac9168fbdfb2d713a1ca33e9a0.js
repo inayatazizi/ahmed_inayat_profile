@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "24c195cfe8c39357ea1a1bd3cd72f77b",
+    "revision": "fcf400542ffc0fa30ad7fe18e8fa35da",
     "url": "/ahmed_inayat_profile/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ahmed_inayat_profile/static/css/2.8e2610c1.chunk.css"
   },
   {
-    "revision": "59133ee0a151cd00309d",
+    "revision": "cb049fef502cea77b030",
     "url": "/ahmed_inayat_profile/static/css/main.a79213c2.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ahmed_inayat_profile/static/js/2.6db30e6f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "59133ee0a151cd00309d",
-    "url": "/ahmed_inayat_profile/static/js/main.148ef724.chunk.js"
+    "revision": "cb049fef502cea77b030",
+    "url": "/ahmed_inayat_profile/static/js/main.4d2d97ca.chunk.js"
   },
   {
     "revision": "2b0c886e6bf73a380811",
