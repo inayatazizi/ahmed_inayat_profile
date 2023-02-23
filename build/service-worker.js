@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ahmed_inayat_profile/precache-manifest.9f2e6f67e341ace24b799ae85a821cae.js"
+  "/ahmed_inayat_profile/precache-manifest.394a80d3dcab60e25ac447fc876c356a.js"
 );
 
 self.addEventListener('message', (event) => {
